@@ -1,6 +1,6 @@
 {
   "name": "svg2png-2018",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "fork后增加了是否'自动从style中加载字体'的开关.",
   "main": "lib/saveSvgAsPng.js",
   "scripts": {
